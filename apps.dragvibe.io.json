@@ -1,0 +1,97 @@
+{
+  "name": "Drag Vibe",
+  "identifier": "com.dragvibedigital.dragvibe",
+  "sourceURL": "https://cdn.altstore.io/file/altstore/apps.json",
+  "apps": [
+    {
+      "name": "Drag Vibe",
+      "bundleIdentifier": "com.dragvibedigital.dragvibe",
+      "developerName": "Drag Vibe Digital",
+      "version": "1.0",
+      "versionDate": "2023-01-01",
+      "versionDescription": "The Official Drag Vibe Streaming App Has Been Released! 🎉",
+      "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_5_1.ipa",
+      "localizedDescription": "The only official Drag Vibe streaming app. Steam all our music in lossless .WAV quality as it releases\n\n*You must have 10GB of free space as the current version installs all music by default\n*some songs may be in lower qualities when .WAV is not available",
+      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+      "tintColor": "018084",
+      "size": 5465976,
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
+        "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+      ],
+      "permissions": [
+        {
+          "type": "background-fetch",
+          "usageDescription": "AltStore periodically refreshes apps in the background to prevent them from expiring."
+        },
+        {
+          "type": "background-audio",
+          "usageDescription": "Allows AltStore to run longer than 30 seconds when refreshing apps in background."
+        }
+      ]
+    },
+    {
+      "name": "AltStore",
+      "bundleIdentifier": "com.rileytestut.AltStore.Beta",
+      "developerName": "Riley Testut",
+      "subtitle": "An alternative App Store for iOS.",
+      "versions": [
+        {
+          "version": "1.6rc",
+          "date": "2022-12-21T11:30:00-06:00",
+          "localizedDescription": "• Moved Error Log from \"Debug\" settings to \"Techy Things\"\n• Improved misc. error messages\n• Fixed repeated \"AltServer could not be found\" notifications\n• Fixed missing metadata for errors received from AltServer\n• Fixed decoding nested error metadata values",
+          "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_6_rc.ipa",
+          "size": 5606669,
+          "minOSVersion": "12.2"
+        },
+        {
+          "version": "1.6b4",
+          "date": "2022-11-30T12:00:00-06:00",
+          "localizedDescription": "• Checks iOS compatibility for updates and installs \n• Asks user to install latest compatible version if not supported\n• View unsupported updates from My Apps tab\n• Pull-to-refresh to check for updates",
+          "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_6_b4.ipa",
+          "size": 5608964
+        }
+      ],
+      "version": "1.6b4",
+      "versionDate": "2022-11-30T12:00:00-06:00",
+      "versionDescription": "• Checks iOS compatibility for updates and installs \n• Asks user to install latest compatible version if not supported\n• View unsupported updates from My Apps tab\n• Pull-to-refresh to check for updates",
+      "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_6_b4.ipa",
+      "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis beta release of AltStore adds support for 3rd party sources, allowing you to download apps from other developers directly through AltStore.",
+      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+      "tintColor": "018084",
+      "size": 5608964,
+      "beta": true,
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
+        "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+      ],
+      "permissions": [
+        {
+          "type": "background-fetch",
+          "usageDescription": "AltStore periodically refreshes apps in the background to prevent them from expiring."
+        },
+        {
+          "type": "background-audio",
+          "usageDescription": "Allows AltStore to run longer than 30 seconds when refreshing apps in background."
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Drag Vibe Is Now Available! 🎉",
+      "identifier": "dragvibe-now-available",
+      "caption": "Stream Music From The Official Drag Vibe App!",
+      "tintColor": "000000",
+      "imageURL": "https://user-images.githubusercontent.com/705880/65604130-c1ec0800-df5b-11e9-8150-7657c474e3c3.png",
+      "appID": "com.dragvibedigital.dragvibe",
+      "date": "2023-01-01",
+      "notify": true
+    }
+  ],
+  "userInfo": {
+
+  }
+}
